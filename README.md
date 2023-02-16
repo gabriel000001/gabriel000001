@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 -  No momento estou aprendendo banco de dados e linguagem C
 -  Estou procurando ajuda com banco de dados e linguagem C
 -  Como entrar em contato comigo: gabriel.8947@aluno.pr.senac.br
--  Curiosidade: aparentemente aprendo rapido....
+-  Curiosidade: aparentemente aprendo rapido
